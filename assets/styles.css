@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(192, 192, 192);
+}
+
+.flex-container {
+    display: flex;
+}
+
+.item1 {
+    background-color: blue;
+    height: 3rem;
+    width: 3rem;
+}
+
+.item2 {
+    background-color: rgb(255, 0, 0);
+    height: 3rem;
+    width: 3rem;
+}
+.item3 {
+    background-color: rgb(255, 174, 0);
+    height: 3rem;
+    width: 3rem;
+}
